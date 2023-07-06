@@ -10,7 +10,6 @@ React.js: Familiarity with React.js library for building reusable components and
 
 Contact Me
 If you have any questions, feedback, or would like to collaborate on a project, feel free to reach out to me. You can find my contact information below:
-
-Email: shuklaji247@gmail.com
-LinkedIn: https://www.linkedin.com/in/shukla-adityaa
+🌐 Socials:
+Instagram LinkedIn Twitter
 Thank you for visiting my portfolio! I look forward to connecting with you.
