@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
-I am a passionate frontend developer with a strong foundation in web technologies. As a fresher, I am eager to learn and grow in the field of frontend development. My main focus is on building user-friendly and visually appealing web applications using the latest tools and frameworks.
+I am <a href='https://aditya-portfolio-c978b.web.app/'> Aditya Shukla</a>, a passionate frontend developer with a strong foundation in web technologies. As a fresher, I am eager to learn and grow in the field of frontend development. My main focus is on building user-friendly and visually appealing web applications using the latest tools and frameworks.
 
 ##  💻 Skills
 
