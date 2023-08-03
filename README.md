@@ -29,6 +29,7 @@ I am <a href='https://aditya-portfolio-c978b.web.app/'> Aditya Shukla</a>, a pas
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adi-tya-shukla&theme=aura-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
+![](https://komarev.com/ghpvc/?username=Adi-tya-shukla)
 ## Contact Me
 
 If you have any questions, feedback, or would like to collaborate on a project, feel free to reach out to me. You can find my contact information below:
