@@ -1,41 +1,133 @@
- <h1>
-                        Hello, folks!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Aditya+Shukla+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Web+%26+Platform+Systems;React+%7C+Java+%7C+Laravel+%7C+Cloud" />
+</p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
-</div>
-I am <a href='https://aditya-portfolio-c978b.web.app/'> Aditya Shukla</a>, a passionate frontend developer with a strong foundation in web technologies. As a fresher, I am eager to learn and grow in the field of frontend development. My main focus is on building user-friendly and visually appealing web applications using the latest tools and frameworks.
+---
 
-##  💻 Skills
+## 👨‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  Proficient in writing clean and efficient JavaScript code to create interactive and dynamic web experiences.
+🚀 **Software Engineer with 3+ years of experience** building **scalable, performant, and modular web applications** across:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) Java: Knowledge of Java programming language as with this I completed my DSA.
+- **SaaS Platforms**
+- **LIMS (Healthcare Systems)**
+- **Marketing Automation**
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) Strong understanding of CSS styling, including layout design, responsiveness, and animations.
+I specialize in:
+- Designing **distributed systems**
+- **API-driven architectures**
+- Refactoring **legacy systems** for reliability & maintainability
+- Building **clean, modular UI architectures** with strong state management
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) Experience in crafting semantic and accessible HTML markup for web pages and applications.
+Currently focused on **performance optimization, platform engineering, and developer experience (DX)**.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  Familiarity with React.js library for building reusable components and developing single-page applications.
+---
 
-# 📊 GitHub Engagement:
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Adi-tya-shukla&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adi-tya-shukla&theme=aura_dark_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-tya-shukla&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/>
--->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adi-tya-shukla&theme=aura-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## 🧠 What I Do Best
 
+- 🔹 Translate complex workflows into **intuitive user interfaces**
+- 🔹 Build **cloud-native**, production-grade systems
+- 🔹 Optimize payloads, caching layers & rendering performance
+- 🔹 Design APIs and integrations at scale
+- 🔹 Own features end-to-end — from design → deployment
 
-![](https://komarev.com/ghpvc/?username=Adi-tya-shukla)
-## Contact Me
+---
 
-If you have any questions, feedback, or would like to collaborate on a project, feel free to reach out to me. You can find my contact information below:
+## 🏗️ Experience Highlights
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shuklaji247@gmail.com)
+### 🏢 Wozku
+- 🚀 Delivered **multiple platform upgrades**
+- ☁️ Implemented **Amazon S3–based storage**
+- 📱 Converted the platform into a **Progressive Web App (PWA)**
+- 🎥 Built **Zoom API integrations** (OAuth, Webinars, Registrations)
+- 🖼️ Implemented **image manipulation at scale**
+- 🔁 Migrated backend from **Laravel 9 → Laravel 12**
+  - Zero downtime
+  - Full backward compatibility
+- ⚡ Improved system reliability & developer throughput
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shukla-adityaa)
+---
 
-Thank you - 😄
+### 🧬 LIMS / Healthcare Systems
+- 🔄 Rebuilt frontend architecture using **React (lazy loading + reusable components)**
+- 📉 Achieved:
+  - **35% bundle size reduction**
+  - **40% faster page load time**
+- 🧪 Developed:
+  - Sample tracking systems
+  - QC graph analytics
+  - Geofencing modules
+  - Patient reporting workflows
+- 🏥 Built scalable healthcare modules:
+  - Central Monitoring System
+  - Inventory Management
+  - Automated Authentication
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🧩 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+## 🌍 Live Projects
+
+🔗 **InkFlint (Production)**  
+👉 https://inkflint.com  
+
+> A real-world production platform featuring modern UI, scalable backend, cloud storage, and performance-focused architecture.
+
+*(More projects coming soon 🚧)*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🎯 What I'm Looking For
+
+💼 **Roles**
+- Full-Stack Engineer
+- Frontend Engineer
+- Platform Engineer
+- API / Product Engineering Teams
+
+🌐 **Environments**
+- High-scale systems
+- API-first platforms
+- Performance-critical products
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *(add your LinkedIn URL here)*
+- 🌐 Portfolio / Product: https://inkflint.com
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+</p>
