@@ -123,7 +123,7 @@ Currently focused on **performance optimization, platform engineering, and devel
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/shukla-adityaa/
 - 🌐 Portfolio / Product: https://inkflint.com
 
 ---
